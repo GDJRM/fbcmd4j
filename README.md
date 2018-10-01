@@ -4,7 +4,7 @@ Cliente de Facebook en línea de comando para la evidencia del curso "**Computac
 ## Instalación
 **Clonar el repositorio**  
 ```
-git clone https://github.com/DavidServn/fbcmd4j.git
+git clone https://github.com/GDJRM/fbcmd4j.git
 ```
 
 **Importar a Eclipse**  
