@@ -50,7 +50,7 @@ git clone https://github.com/GDJRM/fbcmd4j.git
 
 ## Créditos
 Desarrollado por:
-- **2686599** David Elí Servín Peña
+- **2708545** Gabriel de Jesús Rubio Martínez
 
 
 ## Licencia
